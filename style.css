@@ -4,7 +4,7 @@ body {
   display: grid;
   gap: 100px;
   justify-items: center;
-  background-image: url("/img/Alura\ Challenge\ -\ Desafio\ 1\ -\ Lógica\ \(Copy\).svg");
+  background-image: url("Alura Challenge - Desafio 1 - Lógica (Copy).svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
